@@ -1,9 +1,8 @@
-# Notas:
+# Sockets's basic application
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+This is a simple chat application, made with sockets.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
+# Only do you need to do:
 ```
 npm install
 ```
